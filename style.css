@@ -1,0 +1,85 @@
+
+label{
+
+    margin: 10px 10px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+
+}
+
+input[type=text]{
+
+    margin: 10px 10px;
+    border-radius: 5px;
+    box-shadow: 2px 2px black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    width: 250px;
+
+}
+
+input[type=email]{
+
+    margin: 10px 10px;
+    border-radius: 5px;
+    box-shadow: 2px 2px black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    width: 250px;
+}
+
+input[type=radio]{
+
+    margin:10px 10px;
+    border-radius: 5px;
+}
+
+select{
+
+    width: 100px;
+    margin: 5px;
+    border-radius: 5px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    box-shadow: 3px 3px black;
+
+}
+
+body{
+
+    background-color: papayawhip
+}
+
+.choice_of_food{
+
+    margin-top: 10px;
+}
+
+#submit{
+
+    margin:10px 10px;
+    border-radius: 5px;
+    width: 70px;
+    height: fit-content;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+
+}
+
+#submit:hover{
+
+    background-color: rgb(124, 195, 160);
+}
+
+th,td{
+
+    background-color: #f2f2f2;
+    border-collapse: collapse;
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+
+}
+
